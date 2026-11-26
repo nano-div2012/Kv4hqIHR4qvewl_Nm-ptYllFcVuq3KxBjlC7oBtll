@@ -1,6 +1,8 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "EXAMANDA",
+  "packageName": "com.maulanacode.exambrowser.man2bjm",
+  "orientation": "portrait",
+  "permissions": [
+    "wake_lock"
+  ]
 }
